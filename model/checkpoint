@@ -1,0 +1,7 @@
+model_checkpoint_path: "/home/chwang/workspace/dogs_vs_cats/model/resnet_cat_dog.model"
+all_model_checkpoint_paths: "/home/chwang/workspace/dogs_vs_cats/model_resnet-500"
+all_model_checkpoint_paths: "/home/chwang/workspace/dogs_vs_cats/model_resnet-1000"
+all_model_checkpoint_paths: "/home/chwang/workspace/dogs_vs_cats/model_resnet-1500"
+all_model_checkpoint_paths: "/home/chwang/workspace/dogs_vs_cats/model_resnet-2000"
+all_model_checkpoint_paths: "/home/chwang/workspace/dogs_vs_cats/model_resnet-2500"
+all_model_checkpoint_paths: "/home/chwang/workspace/dogs_vs_cats/model/resnet_cat_dog.model"

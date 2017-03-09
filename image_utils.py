@@ -1,5 +1,6 @@
 import numpy as np
 from skimage import transform
+from skimage.io import imread
 
 MEAN_PIXEL = [127, 127, 127]
 
